@@ -1,0 +1,39 @@
+body {
+	background-color: blue;
+	color: yellow;
+}
+
+.image {
+	width: 240px;
+	height: 200px;
+	float: right;
+}
+
+.rss-link {
+	background-color: green;
+	height: 40px;
+}
+
+.false {
+	text-decoration: line-through;
+}
+
+table.flex {
+	width: 100%;
+}
+
+table.flex td{
+	text-align: center;
+}
+
+table.flex th.name {
+	width: 200px;
+}
+
+table.flex th.surname {
+	width: 200px;
+}
+
+table.flex th.age {
+	width: 300px;
+}
